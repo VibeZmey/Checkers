@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>lol.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>resourses/pixil-frame-0.png</file>
+        <file>resourses/pixil-frame-0 (1).png</file>
+        <file>resourses/pixil-frame-0 (2).png</file>
+        <file>resourses/testboard.png</file>
+        <file>resourses/testxch.png</file>
+        <file>resourses/purpuleboard.png</file>
+        <file>resourses/bg.jpg</file>
+        <file>resourses/graydesk.png</file>
+        <file>resourses/bg2.jpg</file>
+        <file>resourses/bg3.jpg</file>
+        <file>resourses/name3.png</file>
+        <file>resourses/HarreeghPoppedCyrillic.ttf</file>
+        <file>resourses/timerbg.png</file>
+        <file>resourses/testxch2Q.png</file>
+        <file>resourses/testxch3Q.png</file>
+        <file>resourses/testxch4.png</file>
+        <file>resourses/figureRed.png</file>
+        <file>resourses/figureRedQueen.png</file>
+        <file>resourses/figureBlueQueen.png</file>
+        <file>resourses/figureBlue.png</file>
+        <file>resourses/name4.png</file>
+        <file>resourses/nameMain.png</file>
+        <file>resourses/rightbg.png</file>
+        <file>resourses/leftbg.png</file>
+        <file>resourses/rulesbg1.png</file>
+        <file>resourses/helpbg2.png</file>
+        <file>resourses/helpbgmain.png</file>
+        <file>resourses/closebg2.png</file>
+        <file>resourses/quitbgmain.png</file>
+        <file>resourses/namebgmain.png</file>
+        <file>resourses/startbgmain.png</file>
+        <file>resourses/giveupbgmain.png</file>
+        <file>resourses/giveupbgpressed.png</file>
+        <file>resourses/startbgpressed.png</file>
+        <file>resourses/quitbgpressed.png</file>
+        <file>resourses/helpbgpressed.png</file>
+        <file>resourses/backbgpressed.png</file>
+        <file>resourses/backbgmain.png</file>
+        <file>resourses/figureBlueLight.png</file>
+        <file>resourses/figureBlueQueenLight.png</file>
+        <file>resourses/figureRedLight.png</file>
+        <file>resourses/figureRedQueenLight.png</file>
+        <file>resourses/leftbggrey.png</file>
+        <file>resourses/rightbggrey.png</file>
+        <file>resourses/winbg.png</file>
+        <file>resourses/winbg2.png</file>
+        <file>resourses/mainwinbgblue.png</file>
+        <file>resourses/mainwinbgred.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\styles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\styles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\mainwindow.ui||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mainwindow.ui||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\mainwindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mainwindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\mainwindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mainwindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "styles.h",
+              "DocumentMoniker": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\styles.h",
+              "RelativeDocumentMoniker": "styles.h",
+              "ToolTip": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\styles.h",
+              "RelativeToolTip": "styles.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-08T19:37:11.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.cpp",
+              "DocumentMoniker": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\styles.cpp",
+              "RelativeDocumentMoniker": "styles.cpp",
+              "ToolTip": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\styles.cpp",
+              "RelativeToolTip": "styles.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T19:37:02.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mainwindow.ui",
+              "DocumentMoniker": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\mainwindow.ui",
+              "RelativeDocumentMoniker": "mainwindow.ui",
+              "ToolTip": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\mainwindow.ui",
+              "RelativeToolTip": "mainwindow.ui",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATPSURBVDhPfZRLbFRlFMf/575m7tzHtEynnVKg7VAKyrsIFgR5JbqRhER3xvgKhIQVa6M7droxRhfqwsSgrnzgxphgYgVCgRZKRaHQ0gftDPO68\u002By99/u\u002B\u002B7lAMGLiPzmbk/P/JSfn5E/4H3V3ZeI9mcygENFaUohUVZlbzOX\u002BuL\u002B01HxyFgAgpaQne6Zp2juH9m4yjOwbrrv7pfbU1kw63aNYFqQQOVS9G\u002BX79y/\u002B7JXvfn5h9NcxxnglCILH/n8B25Ltvc/uOvp2NvvKifYV\u002B1JhaIEAWDbguIDrALYDxAwfc7MXm9evff/Ftesjn9yaun2z1WoBANR/YG1rDh96893de04dz2R2uYABzgARAboOmHEgkZAwTcC2dfT29RuDgxu3AkFfvV6YrFQqD7gQD4EJ00wcOvjyyUOHT51Ip7OmlESRAFrLQK0OEgKka0DcBNk2yLGJEhaQTrtaNru2v1xajE/\u002BPnExDMOWCgD79uzdtv/AWx\u002BsWz\u002BcJCIQgOYy0GgCtRogJWBZgG0/KkJbEjAThHSnq9q2ubFUXBy9dXvqlgIAmUz21aFn9nfZNsi2AN0Axf9eMWbUwNldHgZ3AlXxYFuSbAsUNwHHBlkWaN/zw7GBtQMnk8mkonZ3dWhHjrz20bbtw0lNIyjKw1MpCtBqzvLZma8uLy5\u002BcyaXP/cLCxeCbH9XT1//Ci2ZJFiWhK5LqCRQKea75\u002Bbnz2hrVq3sfWrj5tWOAwgBxAxANwBFaeDK6NnxS1c\u002BfqdWrfwWSSnu3rm0Lp0Wp7dtO3aUQkG5uTnUiktolvOg3JTJwmCPxrlY3de3UnEdQhQBVgJwOcB5URSKEyPVavlCuVxhAOB53u2ffvz63HaneLjHFq6mKaCYCYcIG7oIEecDCgEwTZDjgpJtklakJDo7GKWSLRhKyCERPXotAFIGLWkERelQCwmFUUKTFNcIhqoQiDRF07X5cnEhgmjB95bgzV7D4tWzaIx/q66K1YfbncQWeij0dnf0b\u002BhOHfSWKs7CQgX5fAOFQgPlcgMzc0WpatqMGkWysTJlv\u002B6EpWThz0toTF8GFW4ixirQOeuOOA0ILjLZTHLngcGVx3p1elEJWIwJiTBSEXKAMYHxmXww7fH31HqjGaVMDGxOy53phIBpEETI4BXraFUaqtZczm7qsJ87sqnjwI60tkUXwqg2GFoMEKRB8Ah\u002ByDBy58HVC\u002BM331cAoNxiX97LlUoESY16gFJNULnGUKv6UEJGnbEokTGE3WGBUkmNXNugQACe16RqtUmTMwVe8OWnXrXKVQBYelDyFC2WyNjmDiWK9GZ9GbV6gGo9AA8ZXFOH6xiwLBNCM8EUAyICln2OcsPnNyrBDyNjkx\u002BGjDVUAGCcs1Ldn4GidzoarScu9WbDR7MZgBSVHNckO\u002Bki4dikqDqxSFIkJMqtkE944fnpaut0oVi69TgcAEBEkTdXqE7UOWQUso0aFzEechgqwU5osE0dZkyDphCaAcdkrsaultl3d6ut01PT9y4v\u002B36EJ/MQABJm3N21fcuQFbHjKTV6YZVjtPd1WOhIxiEpwnw1WB7L\u002BaN5nz47P3bjHBc87/uBfOT/D/CRXNfF5k1PpwAMBb6/hgAtFo8XFE0bm5iYnPc8TzzpAYC/ALOeS56oCeRZAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-08T19:36:58.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mainwindow.h",
+              "DocumentMoniker": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\mainwindow.h",
+              "RelativeDocumentMoniker": "mainwindow.h",
+              "ToolTip": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\mainwindow.h",
+              "RelativeToolTip": "mainwindow.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-08T19:36:44.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mainwindow.cpp",
+              "DocumentMoniker": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\mainwindow.cpp",
+              "RelativeDocumentMoniker": "mainwindow.cpp",
+              "ToolTip": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\mainwindow.cpp",
+              "RelativeToolTip": "mainwindow.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T19:36:38.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T19:36:33.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "engine.h",
+              "DocumentMoniker": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\engine.h",
+              "RelativeDocumentMoniker": "engine.h",
+              "ToolTip": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\engine.h",
+              "RelativeToolTip": "engine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-08T19:36:25.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "engine.cpp",
+              "DocumentMoniker": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\engine.cpp",
+              "RelativeDocumentMoniker": "engine.cpp",
+              "ToolTip": "C:\\Users\\IDIotSUda\\Desktop\\Sem2rt\\MyGame(MainSave)\\engine.cpp",
+              "RelativeToolTip": "engine.cpp",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAPsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T19:36:09.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
